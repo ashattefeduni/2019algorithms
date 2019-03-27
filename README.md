@@ -27,6 +27,9 @@ Follow these steps:
 
 Spend around 25 minutes working on your solution before moving on to Activity 2.
 
+If you get stuck, hover your mouse over the box below for a hint:
+>! Try working backwards. You want the other player to have the choice of only 1 pin. How can you force this to happen?
+
 ### 2. Generalising the Algorithm
 
 Hopefully you managed to find a strategy to win every time with 21 pins, but what if we start the game using a different number of pins? Does your algorithm still guarantee you the win? 
