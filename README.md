@@ -135,7 +135,7 @@ After playing the game with different values, spend a few minutes reading the Py
 
 If something goes wrong, you can always copy and paste the original code in again.
 
-### 3. Other implementations of 21 Pins
+### 3. Scratch Implementation
 
 Now we will explore the code used to create the visual game of 21 Pins in Scratch.
 
