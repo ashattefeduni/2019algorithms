@@ -160,5 +160,5 @@ What do you think the future of algorithms holds? Will computers one day rule th
 
 ### Links
 
-
+- [Information Technology at Federation University](https://federation.edu.au/schools/school-of-science-engineering-and-information-technology/areas-of-study/information-technology)
 
