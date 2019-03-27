@@ -33,6 +33,8 @@ Hopefully you managed to find a strategy to win every time with 21 pins, but wha
 
 The [Python](https://www.python.org/) script below will allow you to test your solution using any number of pins. Copy and paste the code into the editor section of this [Online Python Interpreter](https://repl.it/languages/python3) and click _Run_. 
 
+You'll see some statements printed out to the console on the right side of the page. Use your keyboard to play the game by entering the values it asks for. You can start the game again at any time by clicking _Run_ again.
+
 ```
 from random import randint
 
