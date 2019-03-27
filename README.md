@@ -148,7 +148,7 @@ Now we will explore the code used to create the visual game of 21 Pins in Scratc
 Follow these steps to get started:
 - Download this file to your computer: [21Pins.sb3](code/21Pins.sb3)
 - Open the [Scratch website](https://scratch.mit.edu) and click the _Create_ link at the top of the page.
-- Once the project editor has loaded, select _File_ > _Load from your computer_ and open the file that you downloaded earlier.
+- Once the project editor has loaded, select _File_ > _Load from your computer_ and open the 21Pins.sb3 file you just downloaded.
 
 Once the project has loaded, you will see code blocks in the centre of the editor window and the robot in the visual stage. Click the green flag above the visual stage to start the program. 
 
