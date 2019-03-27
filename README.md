@@ -65,27 +65,28 @@ class PinsHumanAgainstMachine:
     Completes all the actions required for a turn
     '''
     def processTurn(self,takePins):
-        if takePins < 1 or takePins > 3:
-            print("Invalid number of pins!")
-        elif takePins > int(self.numberPins):
-            print("Too many pins selected!  Pins remaining: " + self.numberPins + ".")
-        else:
-            self.numberPins = int(self.numberPins) - takePins
-      
-        if self.whoseTurn == 1:
-            self.whoseTurn = 2
-        else:
-            self.whoseTurn = 1
-      
-        if self.numberPins == 0:
-            winner = ""
-            if self.whoseTurn == self.human:
-                winner = "Human"
+        if int(takePins) <= int(self.numberPins):
+            if takePins < 1 or takePins > 3:
+                print("Invalid number of pins!")
+            elif takePins > int(self.numberPins):
+                print("Too many pins selected!  Pins remaining: " + self.numberPins + ".")
             else:
-                winner = "Machine"
-            print("Game Over! " + winner + " wins!")
-        else:
-            print("Pins remaining: " + str(self.numberPins))
+                self.numberPins = int(self.numberPins) - takePins
+      
+            if self.whoseTurn == 1:
+                self.whoseTurn = 2
+            else:
+                self.whoseTurn = 1
+      
+            if self.numberPins == 0:
+                winner = ""
+                if self.whoseTurn == self.human:
+                    winner = "Human"
+                else:
+                    winner = "Machine"
+                print("Game Over! " + winner + " wins!")
+            else:
+                print("Pins remaining: " + str(self.numberPins))
 
 def playGame(gameObject):
     print("WELCOME TO PINS - GAME RULES\n");
