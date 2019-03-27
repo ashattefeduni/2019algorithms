@@ -153,8 +153,6 @@ Complete the following tasks:
 
 You should start to realise that when a developer creates a program, they are essentially creating a set of algorithms. A computer program is a set of commands given to the machine, written in a specific language, to perform a series of specific operations in order to obtain a result. Computers don't understand human language so the programming language is therefore the tool that serves as a bridge between the human language and the language that the machine can understand. 
 
-For example, we could also create the exact same algorithm using a third programming language, such as [Java](https://www.w3schools.com/java/java_intro.asp). 
-
 ### Conclusion
 While we have only looked at some simple algorithms today, the algorithm is at the heart of many powerful technologies such as artificial intelligence. You may have also heard of other advanced topics such as machine learning and deep learning, which are being used to develop smart technologies such as self-driving cars. 
 
