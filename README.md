@@ -27,13 +27,13 @@ Follow these steps:
 - Using the sticks your instructor has provided, play a few games against each other. One of you will be the human and the other will be the computer. You should alternate between who goes first in each game. Your goal is to determine if there is an algorithm you can use to win the game every time.
 - Use the provided pens and paper to help find a solution and/or draw a visual model of your solution. 
 
-Spend around 25 minutes working on your solution before moving on to Activity 2.
+We'll spend 25 minutes working on our solutions before we share our findings with each other.
 
 ---
 
 ### 2. Generalising Your Algorithm
 
-Hopefully you managed to find a strategy to win every time with 21 pins, but what if we start the game using a different number of pins? Does your algorithm still guarantee you the win? 
+Hopefully you managed to find a strategy to win every time with 21 pins, but what if the computers change the game to start with a different number of pins? Does your algorithm still guarantee you the win for humanity? 
 
 The [Python](https://www.python.org/) script below will allow you to test your solution using any number of pins. Copy and paste the code into the editor section of this [Online Python Interpreter](https://repl.it/languages/python3) and click _Run_. 
 
@@ -144,28 +144,28 @@ If something goes wrong, you can always copy and paste the original code in agai
 
 ### 3. Scratch Implementation
 
-Now we will explore the code used to create the visual game of 21 Pins in Scratch.
+Now let's lift the lid on the computer's 21 Pins algorithm to see if we got it right.
 
 Follow these steps to get started:
 - Download this file to your computer: [21Pins.sb3](code/21Pins.sb3)
 - Open the [Scratch website](https://scratch.mit.edu) and click the _Create_ link at the top of the page.
 - Once the project editor has loaded, select _File_ > _Load from your computer_ and open the 21Pins.sb3 file you just downloaded.
 
-Once the project has loaded, you will see code blocks in the centre of the editor window and the robot in the visual stage. Click the green flag above the visual stage to start the program. 
+You should see code blocks in the centre of the editor window and a robot in the visual stage. Click the green flag above the visual stage to start the program. 
 
 ![Scratch](img/scratch.png)
 
-Complete the following tasks:
-1. Test your algorithm using this version of 21 Pins. Does everything still work as expected? 
+Work through these tasks:
+1. Test your algorithm again using this version of 21 Pins. Does everything still work as expected? 
 2. Compare the code blocks in this Scratch version with the Python code from Activity 2. Can you see any similarities? Any major differences? 
-3. Make some changes to code blocks, run the program again and note the results.
+3. Make some changes to the values in the code blocks, run the program again and note the results.
 
-You should start to realise that when a developer creates a program, they are essentially creating a set of algorithms. A computer program is a set of commands given to the machine, written in a specific language, to perform a series of specific operations in order to obtain a result. Computers don't understand human language so the programming language is therefore the tool that serves as a bridge between the human language and the language that the machine can understand. 
+You should now start to realise that when a developer creates a program, they are essentially creating a set of algorithms. A computer program is a set of commands given to the machine, written in a specific language, to perform a series of specific operations in order to obtain a result. Computers don't understand human language so the programming language is therefore the tool that serves as a bridge between the human language and the language that the machine can understand. 
 
 ---
 
 ### Conclusion
-While we have only looked at some simple algorithms today, the algorithm is at the heart of many powerful technologies such as artificial intelligence. You may have also heard of other advanced topics such as machine learning and deep learning, which are being used to develop smart technologies such as self-driving cars. While such advances in technology are exciting, they also raise [ethical questions](https://www.cio.com/article/3232395/ethical-principles-for-algorithms.html) that we should keep in mind when using algorithms to make important societal decisions.
+While we have only looked at some simple algorithms today, the algorithm is at the heart of many powerful technologies such as artificial intelligence. You may have also heard of other advanced topics such as machine learning and deep learning, which are being used to develop smart technologies such as self-driving cars and computers that learn how to solve new problems on their own. While such advances in technology are exciting, they also raise [ethical questions](https://www.cio.com/article/3232395/ethical-principles-for-algorithms.html) that we should keep in mind when using algorithms to make important societal decisions.
 
 What do you think the future of algorithms holds? Will computers one day rule the Earth? If so, let's hope they are kind! 
 
