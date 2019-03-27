@@ -20,7 +20,7 @@ We're going to explore the concept of algorithms further by looking at a game ca
 Who would have thought that a computer could out-bluff a human? Let's fight back!
 
 Follow these steps:
-- <a href="docs/Pins.pdf" download>Download</a> and read the rules of Pins.
+- [Download](docs/Pins.pdf) and read the rules of Pins.
 - Find a partner to work with - two minds are better than one!
 - Using the sticks your instructor has provided, play a few games against each other. One of you will be the human and the other will be the computer. You should alternate between who goes first in each game. Your goal is to determine if there is an algorithm you can use to win the game every time.
 - Use the provided pens and paper to help find a solution and/or draw a visual model of your solution.
@@ -143,7 +143,7 @@ If something goes wrong, you can always copy and paste the original code in agai
 Now we will explore the code used to create the visual game of 21 Pins in Scratch.
 
 Follow these steps to get started:
-- Download this file to your computer: 
+- Download this file to your computer: [21Pins.sb3](code/21Pins.sb3)
 - Open the [Scratch website](https://scratch.mit.edu] and click the _Create_ link at the top of the page.
 - Once the project editor has loaded, select _File_ > _Load from your computer_ and open the file that you downloaded earlier.
 
