@@ -1,4 +1,4 @@
-## Algorithms and Design Thinking
+## Algorithms and Problem Solving
 
 Computers are becoming more capable all of the time. For example:
 
