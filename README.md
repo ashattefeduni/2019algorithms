@@ -62,7 +62,7 @@ class PinsHumanAgainstMachine:
         self.whoseTurn = 1
         
     '''
-    Completes all the actions required for a turns
+    Completes all the actions required for a turn
     '''
     def processTurn(self,takePins):
         if takePins < 1 or takePins > 3:
