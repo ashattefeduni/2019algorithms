@@ -13,7 +13,7 @@ These computers use complex algorithms – sets of instructions – to solve hig
 
 We're going to explore the concept of algorithms further by looking at a game called _Pins_. 
 
-- Your instructor will also spend a few minutes showing a demo of the game.
+- Your instructor will spend a few minutes showing a demo of the game.
 
 ![Image](img/robot.png)
 
