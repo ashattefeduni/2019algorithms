@@ -25,7 +25,13 @@ Follow these steps:
 - Using the sticks your instructor has provided, play a few games against each other. One of you will be the human and the other will be the computer. You should alternate between who goes first in each game. Your goal is to determine if there is an algorithm you can use to win the game every time.
 - Use the provided pens and paper to help find a solution and/or draw a visual model of your solution.
 
+Spend around 25 minutes working on your solution before we move on.
+
 ### Generalising the Algorithm
+
+Hopefully you managed to find a strategy to win every time with 21 pins, but what if we start the game using a different number of pins? Does your algorithm still guarantee you the win? 
+
+The [Python](https://www.python.org/) script below will allow you to test your solution using any number of pins. Copy and paste the code into the editor section of this [Online Python Interpreter](https://repl.it/languages/python3) and click _Run_. 
 
 ```
 from random import randint
@@ -125,9 +131,6 @@ playGame(PinsHumanAgainstMachine())
 
 
 
-You can use the [editor on GitHub](https://github.com/ashattefeduni/2019algorithms/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -152,11 +155,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashattefeduni/2019algorithms/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
