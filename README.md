@@ -9,6 +9,8 @@ Computers are becoming more capable all of the time. For example:
 
 These computers use complex algorithms – sets of instructions – to solve highly complex problems. Spend a few minutes [reading this article about algorithms](https://blog.pandorafms.org/what-is-an-algorithm/) before working through the following activities.
 
+---
+
 ### 1. Human Against Machine
 
 We're going to explore the concept of algorithms further by looking at a game called _Pins_. 
@@ -27,7 +29,9 @@ Follow these steps:
 
 Spend around 25 minutes working on your solution before moving on to Activity 2.
 
-### 2. Generalising the Algorithm
+---
+
+### 2. Generalising Your Algorithm
 
 Hopefully you managed to find a strategy to win every time with 21 pins, but what if we start the game using a different number of pins? Does your algorithm still guarantee you the win? 
 
@@ -135,6 +139,8 @@ After playing the game with different values, spend a few minutes reading the Py
 
 If something goes wrong, you can always copy and paste the original code in again.
 
+---
+
 ### 3. Scratch Implementation
 
 Now we will explore the code used to create the visual game of 21 Pins in Scratch.
@@ -153,10 +159,14 @@ Complete the following tasks:
 
 You should start to realise that when a developer creates a program, they are essentially creating a set of algorithms. A computer program is a set of commands given to the machine, written in a specific language, to perform a series of specific operations in order to obtain a result. Computers don't understand human language so the programming language is therefore the tool that serves as a bridge between the human language and the language that the machine can understand. 
 
+---
+
 ### Conclusion
 While we have only looked at some simple algorithms today, the algorithm is at the heart of many powerful technologies such as artificial intelligence. You may have also heard of other advanced topics such as machine learning and deep learning, which are being used to develop smart technologies such as self-driving cars. 
 
-What do you think the future of algorithms holds? Will computers one day rule the Earth? 
+What do you think the future of algorithms holds? Will computers one day rule the Earth? If so, let's hope they are kind!
+
+---
 
 ### Links
 
