@@ -9,7 +9,7 @@ Computers are becoming more capable all of the time. For example:
 
 These computers use complex algorithms – sets of instructions – to solve highly complex problems. Spend a few minutes [reading this article about algorithms](https://blog.pandorafms.org/what-is-an-algorithm/) before working through the following activities.
 
-### Human Against Machine
+### 1. Human Against Machine
 
 We're going to explore the concept of algorithms further by looking at a game called _Pins_. 
 
@@ -25,15 +25,15 @@ Follow these steps:
 - Using the sticks your instructor has provided, play a few games against each other. One of you will be the human and the other will be the computer. You should alternate between who goes first in each game. Your goal is to determine if there is an algorithm you can use to win the game every time.
 - Use the provided pens and paper to help find a solution and/or draw a visual model of your solution.
 
-Spend around 25 minutes working on your solution before we move on.
+Spend around 25 minutes working on your solution before moving on to Activity 2.
 
-### Generalising the Algorithm
+### 2. Generalising the Algorithm
 
 Hopefully you managed to find a strategy to win every time with 21 pins, but what if we start the game using a different number of pins? Does your algorithm still guarantee you the win? 
 
 The [Python](https://www.python.org/) script below will allow you to test your solution using any number of pins. Copy and paste the code into the editor section of this [Online Python Interpreter](https://repl.it/languages/python3) and click _Run_. 
 
-You'll see some statements printed out to the console on the right side of the page. Use your keyboard to play the game by entering the values it asks for. You can start the game again at any time by clicking _Run_ again.
+You'll see some statements printed out to the console on the right side of the page. Use your keyboard to play the game by entering the values as requested. You can start the game again at any time by clicking _Run_ again.
 
 ```
 from random import randint
@@ -135,9 +135,14 @@ After playing the game with different values, spend a few minutes reading the Py
 
 If something goes wrong, you can always copy and paste the original code in again.
 
-### Exploring the code in Scratch
+### 3. Exploring the code in Scratch
 
+Now we will explore the code used to create the visual game of 21 Pins in Scratch.
 
+Follow these steps to get started:
+- Download this file to your computer: 
+- Open the [Scratch website](https://scratch.mit.edu] and click the _Create_ link at the top of the page.
+- Once the project editor has loaded, select _File_ > _Load from your computer_ and open the file that you downloaded earlier.
 
 
 ### Markdown
