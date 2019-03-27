@@ -131,6 +131,10 @@ def playGame(gameObject):
 playGame(PinsHumanAgainstMachine())
 ```
 
+After playing the game with different values, spend a few minutes reading the Python code and trying to determine what each part is doing. Feel free to change some values and run the program again to see how it changes the outcome. If something goes wrong, you can always copy and paste the original code in again.
+
+### Exploring the code in Scratch
+
 
 
 
