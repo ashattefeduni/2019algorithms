@@ -20,7 +20,7 @@ We're going to explore the concept of algorithms further by looking at a game ca
 Who would have thought that a computer could out-bluff a human? Let's fight back!
 
 Follow these steps:
-- [Download and read the rules of Pins](docs/Pins.pdf)
+- <a href="docs/Pins.pdf" download>Download</a> and read the rules of Pins.
 - Find a partner to work with - two minds are better than one!
 - Using the sticks your instructor has provided, play a few games against each other. One of you will be the human and the other will be the computer. You should alternate between who goes first in each game. Your goal is to determine if there is an algorithm you can use to win the game every time.
 - Use the provided pens and paper to help find a solution and/or draw a visual model of your solution.
