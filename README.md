@@ -2,10 +2,10 @@
 
 Computers are becoming more capable all of the time. For example:
 
-- IBM Watson wins the game show Jeopardy [video](https://www.youtube.com/watch?v=P18EdAKuC1U)
-- IBM Deep Blue defeats grand master at chess [video](https://www.youtube.com/watch?v=NJarxpYyoFI)
-- AlphaGo beats two professional Go champions [video](https://www.youtube.com/watch?v=8tq1C8spV_g)
-- Libratus beats professional poker players [video](https://www.youtube.com/watch?v=Jgau2BKTHbk)
+- IBM Watson wins the game show Jeopardy [[video]](https://www.youtube.com/watch?v=P18EdAKuC1U)
+- IBM Deep Blue defeats grand master at chess [[video]](https://www.youtube.com/watch?v=NJarxpYyoFI)
+- AlphaGo beats two professional Go champions [[video]](https://www.youtube.com/watch?v=8tq1C8spV_g)
+- Libratus beats professional poker players [[video]](https://www.youtube.com/watch?v=Jgau2BKTHbk)
 
 These computers use complex algorithms – sets of instructions – to solve highly complex problems. Spend a few minutes [reading this article about algorithms](https://blog.pandorafms.org/what-is-an-algorithm/) before working through the following activities.
 
