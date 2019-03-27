@@ -1,17 +1,24 @@
-## Welcome
+## Algorithms and Design Thinking
 
 Computers are becoming more capable all of the time. For example:
 
 - IBM Watson wins the game show Jeopardy [video](https://www.youtube.com/watch?v=P18EdAKuC1U)
-- IBM's Deep Blue defeats grand master at chess [video](https://www.youtube.com/watch?v=NJarxpYyoFI)
+- IBM Deep Blue defeats grand master at chess [video](https://www.youtube.com/watch?v=NJarxpYyoFI)
 - AlphaGo beats two professional Go champions [video](https://www.youtube.com/watch?v=8tq1C8spV_g)
 - Libratus beats professional poker players [video](https://www.youtube.com/watch?v=Jgau2BKTHbk)
 
-These computers use complex algorithms – sets of instructions – to solve highly complex problems. 
+These computers use complex algorithms – sets of instructions – to solve highly complex problems. Spend a few minutes [reading this article about algorithms](https://blog.pandorafms.org/what-is-an-algorithm/) before working through the following activities.
+
+### Human Against Machine
+
+We're going to explore the concept of algorithms further by looking at a game called _Pins_. 
+
+- [Download and read the rules of Pins]
+- _Your instructor will spend a few minutes showing a demo of the game_
 
 
 
-Who would have thought a computer could out-bluff a human? Let's fight back!
+Who would have thought that a computer could out-bluff a human? Let's fight back!
 
 
 
