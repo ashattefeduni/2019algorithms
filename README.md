@@ -16,7 +16,7 @@ We're going to explore the concept of algorithms further by looking at a game ca
 - [Download and read the rules of Pins]
 - _Your instructor will spend a few minutes showing a demo of the game_
 
-
+![Image](img/robot.png)
 
 Who would have thought that a computer could out-bluff a human? Let's fight back!
 
