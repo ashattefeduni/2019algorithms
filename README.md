@@ -160,7 +160,7 @@ Work through these tasks:
 2. Compare the code blocks in this Scratch version with the Python code from Activity 2. Can you see any similarities? Any major differences? 
 3. Make some changes to the values in the code blocks, run the program again and note the results.
 
-This exercises shows that computer programs are essentially just a set of algorithm. A computer program is a set of commands given to the machine, written in a specific language, to perform a series of specific operations in order to obtain a result. Computers don't understand human language so the programming language is therefore the tool that serves as a bridge between the human language and the language that the machine can understand. 
+This exercises shows that computer programs are essentially just a collection of algorithms. A computer program is a set of commands given to the machine, written in a specific language, to perform a series of specific operations in order to obtain a result. Computers don't understand human language so the programming language is the tool that serves as a bridge between the human language and the language that the machine can understand. 
 
 ---
 
