@@ -160,12 +160,12 @@ Work through these tasks:
 2. Compare the code blocks in this Scratch version with the Python code from Activity 2. Can you see any similarities? Any major differences? 
 3. Make some changes to the values in the code blocks, run the program again and note the results.
 
-You should now start to realise that when a developer creates a program, they are essentially creating a set of algorithms. A computer program is a set of commands given to the machine, written in a specific language, to perform a series of specific operations in order to obtain a result. Computers don't understand human language so the programming language is therefore the tool that serves as a bridge between the human language and the language that the machine can understand. 
+This exercises shows that computer programs are essentially just a set of algorithm. A computer program is a set of commands given to the machine, written in a specific language, to perform a series of specific operations in order to obtain a result. Computers don't understand human language so the programming language is therefore the tool that serves as a bridge between the human language and the language that the machine can understand. 
 
 ---
 
 ### Conclusion
-While we have only looked at some simple algorithms today, the algorithm is at the heart of many powerful technologies such as artificial intelligence. You may have also heard of other advanced topics such as machine learning and deep learning, which are being used to develop smart technologies such as self-driving cars and computers that learn how to solve new problems on their own. While such advances in technology are exciting, they also raise [ethical questions](https://www.cio.com/article/3232395/ethical-principles-for-algorithms.html) that we should keep in mind when using algorithms to make important societal decisions.
+While we have only looked at some simple algorithms today, the algorithm is at the heart of many powerful technologies such as artificial intelligence. You may have also heard of other advanced topics such as deep learning, which are being used to develop smart technologies including self-driving cars and computers that learn how to solve new problems on their own. While these advances in technology are exciting, they also raise [ethical questions](https://www.cio.com/article/3232395/ethical-principles-for-algorithms.html) that we should keep in mind when relying on algorithms to make important societal decisions.
 
 What do you think the future of algorithms holds? Will computers one day rule the Earth? If so, let's hope they are kind! 
 
