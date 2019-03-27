@@ -15,11 +15,11 @@ These computers use complex algorithms – sets of instructions – to solve hig
 
 We're going to explore the concept of algorithms further by looking at a game called _Pins_. 
 
-- Your instructor will spend a few minutes showing a demo of the game.
+- Your instructor will spend a few minutes explaining the game (with a volunteer), and then we'll play against the computer.
 
 ![Image](img/robot.png)
 
-Who would have thought that a computer could out-bluff a human? Let's fight back!
+As you'll see, the computer has its own algorithm to beat us every time. Let's fight back!
 
 Follow these steps:
 - [Download](docs/Pins.pdf) and read the rules of Pins.
