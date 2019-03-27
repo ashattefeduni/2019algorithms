@@ -144,6 +144,13 @@ Follow these steps to get started:
 - Open the [Scratch website](https://scratch.mit.edu] and click the _Create_ link at the top of the page.
 - Once the project editor has loaded, select _File_ > _Load from your computer_ and open the file that you downloaded earlier.
 
+Once the project has loaded, you will see code blocks in the centre of the editor window and the robot in the visual stage. Click the green flag above the visual stage to start the program. 
+
+Complete the following tasks:
+1. Test your algorithm using this version of 21 Pins. Does everything still work as expected? 
+2. Compare the code blocks in this Scratch version with the Python code from Activity 2. Can you see any similarities? Any major differences? 
+3. Make some changes to code blocks, run the program again and note the results.
+
 
 ### Markdown
 
