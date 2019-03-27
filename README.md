@@ -166,7 +166,7 @@ You should start to realise that when a developer creates a program, they are es
 ### Conclusion
 While we have only looked at some simple algorithms today, the algorithm is at the heart of many powerful technologies such as artificial intelligence. You may have also heard of other advanced topics such as machine learning and deep learning, which are being used to develop smart technologies such as self-driving cars. While such advances in technology are exciting, they may also raise [ethical issues](https://www.cio.com/article/3232395/ethical-principles-for-algorithms.html) that we should keep in mind when using algorithms to make important societal decisions.
 
-What do you think the future of algorithms holds? Will computers one day rule the Earth? If so, let's hope they are kind!
+What do you think the future of algorithms holds? Will computers one day rule the Earth? If so, let's hope they are kind! 
 
 ---
 
