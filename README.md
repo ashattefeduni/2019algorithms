@@ -152,6 +152,8 @@ Follow these steps to get started:
 
 Once the project has loaded, you will see code blocks in the centre of the editor window and the robot in the visual stage. Click the green flag above the visual stage to start the program. 
 
+![Scratch](img/scratch.png)
+
 Complete the following tasks:
 1. Test your algorithm using this version of 21 Pins. Does everything still work as expected? 
 2. Compare the code blocks in this Scratch version with the Python code from Activity 2. Can you see any similarities? Any major differences? 
