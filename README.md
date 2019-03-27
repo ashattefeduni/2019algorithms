@@ -135,7 +135,7 @@ After playing the game with different values, spend a few minutes reading the Py
 
 If something goes wrong, you can always copy and paste the original code in again.
 
-### 3. Exploring the code in Scratch
+### 3. Other implementations of 21 Pins
 
 Now we will explore the code used to create the visual game of 21 Pins in Scratch.
 
@@ -151,27 +151,16 @@ Complete the following tasks:
 2. Compare the code blocks in this Scratch version with the Python code from Activity 2. Can you see any similarities? Any major differences? 
 3. Make some changes to code blocks, run the program again and note the results.
 
+You should start to realise that when a developer creates a program, they are essentially creating a set of algorithms. A computer program is a set of commands given to the machine, written in a specific language, to perform a series of specific operations in order to obtain a result. Computers don't understand human language so the programming language is therefore the tool that serves as a bridge between the human language and the language that the machine can understand. 
 
-### Markdown
+For example, we could also create the exact same algorithm using a third programming language, such as [Java](https://www.w3schools.com/java/java_intro.asp). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Conclusion
+While we have only looked at some simple algorithms today, the algorithm is at the heart of many powerful technologies such as artificial intelligence. You may have also heard of other advanced topics such as machine learning and deep learning, which are being used to develop smart technologies such as self-driving cars. 
 
-```markdown
-Syntax highlighted code block
+What do you think the future of algorithms holds? Will computers one day rule the Earth? 
 
-# Header 1
-## Header 2
-### Header 3
+### Links
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
