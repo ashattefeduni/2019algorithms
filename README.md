@@ -168,7 +168,7 @@ This exercises shows that computer programs are essentially just a collection of
 
 If you have finished all the tasks and still have time, work with your partner on developing an algorithm for one of following scenarios:
 
-- [A Century of Sundays](docs/ACenturyofSundays.pf) - devise an algorithm to calculate the number of Sundays in any given century.
+- [A Century of Sundays](docs/ACenturyofSundays.pdf) - devise an algorithm to calculate the number of Sundays in any given century.
 - [Spies](docs/Spies.pdf) - work out a forumula for spies to share secret information with each other.
 - [Noughts and Crosses](docs/NoughtsAndCrosses.pdf) - develop an algorithmic technique to always win at the game Noughts and Crosses.
 
