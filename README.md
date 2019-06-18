@@ -164,6 +164,16 @@ This exercises shows that computer programs are essentially just a collection of
 
 ---
 
+### 4. Other Algorithms
+
+If you have finished all the tasks and still have time, work with your partner on developing an algorithm for one of following scenarios:
+
+- [A Century of Sundays](docs/ACenturyofSundays.pf) - devise an algorithm to calculate the number of Sundays in any given century.
+- [Spies](docs/Spies.pdf) - work out a forumula for spies to share secret information with each other.
+- [Noughts and Crosses](docs/NoughtsAndCrosses.pdf) - develop an algorithmic technique to always win at the game Noughts and Crosses.
+
+---
+
 ### Conclusion
 While we have only looked at some simple algorithms today, the algorithm is at the heart of many powerful technologies such as artificial intelligence. You may have also heard of other advanced topics such as deep learning, which are being used to develop smart technologies including self-driving cars and computers that learn how to solve new problems on their own. While these advances in technology are exciting, they also raise [ethical questions](https://www.cio.com/article/3232395/ethical-principles-for-algorithms.html) that we should keep in mind when relying on algorithms to make important societal decisions.
 
